@@ -10,7 +10,7 @@ function primeNumber(firstNumber,secondNumber)
         {
             if (i%j==0) 
             {
-                control=false;   
+                  control=false;   
             }         
         }
         
