@@ -10,6 +10,6 @@ Eğitim Linki: [PatikaDev Node.js Eğitimi](https://app.patika.dev/courses/nodej
 ***
 
 # Alparslan Aydoğan
-- [GitHub](https://github.com/Alparslan524?tab=repositories)
+- [GitHub](https://github.com/Alparslan524)
 - [Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
 ***
